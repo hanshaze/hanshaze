@@ -1,16 +1,17 @@
-## Hi there 👋
+#🤖 Solana Trading Bot Developer 💊
+📞Telegram: [@cryptokingmax0](https://t.me/hanshaze)
+💬 Discord: [Join our Discord](https://discord.gg/2HtSHZgT)
 
-<!--
-**hanshaze/hanshaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Why Automated Trading?
 
-Here are some ideas to get you started:
+Hello! **Manual trading** can't compete with **automated bots**. Humans need to **eat, sleep, hang** with friends and family - but bots trade **24/7**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My automated trading bots can:
+- **Take more trades** across any symbol at any time of the day
+- **Free you** from staring at the screen all day
+- **Execute full strategies** automatically - the bot will buy and sell for you
+- **Give you a real edge** while competitors still trade manually
+
+I can automate **any strategy** you have or any strategy you think of in the future. **Clone** and **fork** my scripts, and let's build **your automated trading** edge! ⭐⭐⭐
+
+📌*See you in the Telegram* -  [@cryptokingmax0](https://t.me/hanshaze)
