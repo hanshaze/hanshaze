@@ -22,9 +22,9 @@ I can automate **any strategy** you have or any strategy you think of in the fut
 
 Check out these **profitable Solana trading bots** that demonstrate the power of automated trading:
 <p align="center">
-  <img width="300" height="48" alt="image1" src="https://github.com/user-attachments/assets/4189d5ce-1680-4e05-a79c-6044a229655e" />
-  <img width="300" height="47" alt="image2" src="https://github.com/user-attachments/assets/911fdb4e-f610-447c-a068-52345ff1e8da" />
-  <img width="300" height="49" alt="image3" src="https://github.com/user-attachments/assets/6068d3d7-2111-46cc-a19f-fa33540826da" />
+  <img width="200" height="38" alt="image1" src="https://github.com/user-attachments/assets/4189d5ce-1680-4e05-a79c-6044a229655e" />
+  <img width="200" height="37" alt="image2" src="https://github.com/user-attachments/assets/911fdb4e-f610-447c-a068-52345ff1e8da" />
+  <img width="200" height="39" alt="image3" src="https://github.com/user-attachments/assets/6068d3d7-2111-46cc-a19f-fa33540826da" />
 </p>
 
 - **Sniper Bot**: [BCagckXeMChUKrHEd6fKFA1uiWDtcmCXMsqaheLiUPJd](https://gmgn.ai/sol/address/BCagckXeMChUKrHEd6fKFA1uiWDtcmCXMsqaheLiUPJd)
