@@ -1,9 +1,5 @@
 
 
-  <h1  align="center">🤖 Solana Trading Bot Developer 💊💩🐹</h1>
-
-📞Telegram: [@hanshaze](https://t.me/hanshaze)
-💬 Discord: [Join our Discord](https://discord.gg/2HtSHZgT)
 
 ## 🚀 Why Automated Trading?
 Hello! **Manual trading** can't compete with **automated bots**. Humans need to **eat, sleep, hang** with friends and family - but bots trade **24/7**. 
@@ -16,7 +12,8 @@ My automated trading bots can:
 
 I can automate **any strategy** you have or any strategy you think of in the future. 
 
-**Clone** and **fork** my scripts, and let's build **your automated trading** edge! ⭐⭐⭐
+###If you find this project helpful, please show your support by giving it a star 🌟!
+###Your feedback and stars motivate further development and improvements. Thank you!
 
 ## 🎯 Successful Trading Bot Examples
 
