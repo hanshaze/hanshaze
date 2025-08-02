@@ -50,4 +50,4 @@ These bots showcase **real profits** from automated trading strategies. **Want y
 
 **You focus on funding - I handle all the technical work!** ✨
 
-📌*See you in the Telegram* -  [@hanshaze](https://t.me/hanshaze)
+📌*See you in the Telegram* -  [@hanshazee](https://t.me/hanshazee)
