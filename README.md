@@ -28,25 +28,42 @@
 
 🟢I typically respond within 2 hours and look forward to connecting with you.
 
-### 🌟 Key Benefits
+## 💡💡💡 Pro Tips
 
-- **Multi-Chain Support**: Trade across multiple blockchain networks
-- **AI-Powered Strategies**: Advanced trading algorithms and machine learning models
-- **Risk Management**: Built-in risk controls and portfolio management
-- **Real-time Monitoring**: Live tracking of trades and performance
-- **Customizable**: Easily adapt strategies to your trading style
+### 💸 Tools I Use for Trading & Passive Income
 
-## ✨ Features
+I use a few tools for trading, strategy development, and market analytics to find better opportunities.
+>Use **my referral link** to access lower trading fees.
 
-- 🔄 **Automated Trading**: Set and forget trading strategies
-- 📊 **Portfolio Management**: Track and manage multiple assets
-- 🎯 **Strategy Backtesting**: Test strategies on historical data
-- 📈 **Performance Analytics**: Comprehensive trading performance metrics
-- 🔒 **Security First**: Secure API key management and encryption
-- 🌐 **Multi-Exchange**: Support for major cryptocurrency exchanges
-- 📱 **Web Dashboard**: Beautiful and intuitive user interface
-- 🔔 **Notifications**: Real-time alerts for trades and market events
+#### 🔹 Axiom Trade
+- Fast on-chain execution
+- Earn passive income from referrals
+- Lower trading fees (10–30%)
 
+👉 https://axiom.trade/@423116  
+
+
+#### 🔹 Odin Bot
+- Automated trading strategies
+- Faster execution  
+
+👉 https://app.odinbot.io/join?code=b92mfb  
+
+#### 🔹 GMGN
+- Smart money tracking
+- Early token discovery  
+
+👉 https://gmgn.ai/r/L53EOll4  
+
+#### 🔹 Padre
+- Advanced trading tools  
+
+👉 https://trade.padre.gg/rk/423116  
+>Use **my referral link** to access lower trading fees.
+### 🖥️ Recommended Trading VPS
+
+For the best performance and ultra-low latency, I personally use a New York VPS from [tradingvps.io](https://app.tradingvps.io/aff.php?aff=22) 
+>You’ll get a discount on setup
 ## 🛠️ Tech Stack
 
 ### Blockchain, Web3 & CEX Integration
@@ -123,9 +140,9 @@
 ## 🆘 Support
 If you have any questions about development or collaboration, I am open to anything. Feel free to contact me about any inquiries or ideas!😊
 
-- ✈️ **Telegram** @Kat_logic  
-- ✈️ **Discord** cryptoking1106
-🟢I typically respond within 2 hours and look forward to connecting with you.
+- ✈️ **Telegram** @cryptoking11060  
+
+🟢I typically respond within 1 hours and look forward to connecting with you.
 ---
 
 ### ⭐ If you find these projects helpful, please star 🌟 and watch 👀 the repo!
