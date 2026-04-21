@@ -59,6 +59,10 @@ I use a few tools for trading, strategy development, and market analytics to fin
 - Advanced trading tools  
 
 👉 https://trade.padre.gg/rk/423116  
+#### 🔹 Polymarket Trading
+- Prediction trading Platform  
+
+👉https://polymarket.com/?r=cryptoking110600
 >Use **my referral link** to access lower trading fees.
 ### 🖥️ Recommended Trading VPS
 
