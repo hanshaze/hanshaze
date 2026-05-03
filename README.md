@@ -28,7 +28,7 @@
 
 🟢I typically respond within 2 hours and look forward to connecting with you.
 
-#💡💡💡 Pro Tips
+# 💡💡💡 Pro Tips
 
 
 ## 💡 Trading Tools & Infrastructure (Recommended Stack)
