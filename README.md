@@ -28,51 +28,90 @@
 
 🟢I typically respond within 2 hours and look forward to connecting with you.
 
-## 💡💡💡 Pro Tips
-
-### 💸 Tools I Use for Trading & Passive Income
-
-I use a few tools for trading, strategy development, and market analytics to find better opportunities.
->Use **my referral link** to access lower trading fees.
-
-#### 🔹 Axiom Trade
-- Fast on-chain execution
-- Earn passive income from referrals
-- Lower trading fees (10–30%)
-
-👉 https://axiom.trade/@423116  
+#💡💡💡 Pro Tips
 
 
-#### 🔹 Odin Bot
-- Automated trading strategies
-- Faster execution  
+## 💡 Trading Tools & Infrastructure (Recommended Stack)
 
-👉 https://app.odinbot.io/join?code=b92mfb  
+This bot is designed to work alongside a high-performance trading stack including **Solana trading bots, MEV tools, smart money trackers, and low-latency infrastructure**.
 
-#### 🔹 GMGN
-- Smart money tracking
-- Early token discovery  
+Using the right tools can significantly improve **execution speed, alpha detection, and profitability**.
 
-👉 https://gmgn.ai/r/L53EOll4  
+> ⚡ Some links include fee discounts or access benefits.
 
-#### 🔹 Padre
-- Advanced trading tools  
+---
 
-👉 https://trade.padre.gg/rk/423116  
+## ⚡ Execution Layer (Fastest Trading Tools)
 
-#### 🔹 telegram bot (Bloom)
--ultra fast
-👉 https://t.me/BloomSolana_bot?start=ref_541WLB0DZS
+**Axiom Trade** — `solana trading bot / fast execution / low fees`
 
-#### 🔹 Polymarket Trading
-- Prediction trading Platform  
+* Optimized for **on-chain trading & sniping**
+* 10–30% lower trading fees
+* Reliable for high-frequency execution
+  → [Start using Axiom](https://axiom.trade/@423116)
 
-👉https://polymarket.com/?r=cryptoking110600
->Use **my referral link** to access lower trading fees.
-### 🖥️ Recommended Trading VPS
+**Odin Bot** — `automated trading bot / strategy execution`
 
-For the best performance and ultra-low latency, I personally use a New York VPS from [tradingvps.io](https://app.tradingvps.io/aff.php?aff=22) 
->You’ll get a discount on setup
+* Fully automated trading strategies
+* Low-latency execution engine
+  → [Access Odin Bot](https://app.odinbot.io/join?code=b92mfb)
+
+**Bloom (Telegram Bot)** — `ultra-fast solana trading bot`
+
+* Lightweight + extremely fast execution
+* Ideal for mobile + quick trades
+  → [Launch Bloom](https://t.me/BloomSolana_bot?start=ref_541WLB0DZS)
+
+---
+
+## 📊 Alpha & Analytics (Edge Tools)
+
+**GMGN** — `smart money tracker / early token discovery`
+
+* Track **whales & insider activity**
+* Discover tokens before they trend
+  → [Explore GMGN](https://gmgn.ai/r/L53EOll4)
+
+---
+
+## 🧠 Advanced Trading Platforms
+
+**Padre** — `advanced trading interface / pro tools`
+
+* Enhanced execution controls
+* Additional trading utilities
+  → [Open Padre](https://trade.padre.gg/rk/423116)
+
+**Polymarket** — `prediction market / trading signals`
+
+* Trade on real-world outcomes
+* Useful for **sentiment-driven strategies**
+  → [Try Polymarket](https://polymarket.com/?r=cryptoking110600)
+
+---
+
+## 🖥️ Low-Latency Infrastructure (Critical for MEV)
+
+**Recommended VPS Setup** — `low latency trading server / solana bot hosting`
+
+For best performance, run the bot on a **New York-based VPS** (close to major trading infrastructure):
+ → [Try Tradingvps.io](https://app.tradingvps.io/aff.php?aff=22)
+* ⚡ Lower latency = faster execution
+* 🔁 More reliable transaction inclusion
+* 🧩 Better performance for MEV / sniping strategies
+
+---
+
+## 📈 Why This Stack Matters
+
+Using this setup improves:
+
+* Transaction speed (critical for sniping)
+* Fill rates & execution reliability
+* Access to early opportunities (alpha)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Blockchain, Web3 & CEX Integration
