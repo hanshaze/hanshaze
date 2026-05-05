@@ -56,6 +56,12 @@ Using the right tools can significantly improve **execution speed, alpha detecti
 * Ideal for mobile + quick trades
   → [Launch Bloom](https://t.me/BloomSolana_bot?start=ref_541WLB0DZS)
 
+<a href="https://t.me/solana_trojanbot?start=r-cryptoking11060"><img src="./assets/trojan%20logo.svg" alt="Trojan on Solana" width="30" height="30"></a>  [**Trojan Bot** — `fast on-chain trading telegram bot`](https://t.me/solana_trojanbot?start=r-cryptoking11060)
+
+* Built for fast, advanced on-chain trading
+* Gives full control from Telegram
+  → [Launch Trojan Bot](https://t.me/solana_trojanbot?start=r-cryptoking11060)
+
 
 
 ## 📊 Alpha & Analytics (Edge Tools)
