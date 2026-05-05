@@ -22,41 +22,38 @@
 
 ## 🎯 About
 
-#### As a Fullstack developer, I've open-sourced this project because I believe in the power of community and collaboration. Whether you're a developer wanting to learn more about trading bots, a trader looking to automate your strategies, or simply curious about crypto trading, I hope this project provides value.
+#### As a Fullstack developer, I’ve open-sourced this project to support innovation in trading bots and AI agents. Whether you’re a developer exploring automation, a trader looking to build intelligent strategies, or someone interested in the intersection of crypto and AI, this project is designed to provide real value.
 
-#### By sharing the code, I invite others to build upon it, improve it, and perhaps even create something entirely new.
+By sharing this code, I aim to enable others to build, customize, and scale their own AI-powered trading agents. Use it as a foundation to experiment, improve execution, and create smarter systems for the evolving trading landscape.
 
-🟢I typically respond within 2 hours and look forward to connecting with you.
-
-# 💡💡💡 Pro Tips
+# 💡💡💡 Free Tips
 
 
-## 💡 Trading Tools & Infrastructure (Recommended Stack)
+## 💡 Trading Tools (Recommended Trading Tools)
 
-This bot is designed to work alongside a high-performance trading stack including **Solana trading bots, MEV tools, smart money trackers, and low-latency infrastructure**.
 
 Using the right tools can significantly improve **execution speed, alpha detection, and profitability**.
 
-> ⚡ Some links include fee discounts or access benefits.
+> ⚡ Below referral links include fee **discounts** or access **benefits**.
+
 
 ---
 
-## ⚡ Execution Layer (Fastest Trading Tools)
-
-**Axiom Trade** — `solana trading bot / fast execution / low fees`
+<a href="https://axiom.trade/@423116"><img src="./assets/axiom.png" alt="Axiom Trade" width="30" height="30"></a> [**Axiom Trade** — `solana trading bot / fast execution / low fees`](https://axiom.trade/@423116)
 
 * Optimized for **on-chain trading & sniping**
 * 10–30% lower trading fees
+* Support multi Wallets
 * Reliable for high-frequency execution
   → [Start using Axiom](https://axiom.trade/@423116)
 
-**Odin Bot** — `automated copy trading bot / strategy execution /scan alpha`
+ <a href="https://app.odinbot.io/join?code=b92mfb"><img src="./assets/odinbot-logo-horizontal.webp" alt="Odin Bot" width="90" height="30"></a>  [**Odin Bot** — `🚀automated super fast copy trading bot / strategy execution /scan alpha`](https://app.odinbot.io/join?code=b92mfb)
 
 * Fully automated copy trading strategies
 * Low-latency execution engine
   → [Access Odin Bot](https://app.odinbot.io/join?code=b92mfb)
 
-**Bloom (Telegram Bot)** — `ultra-fast solana trading bot`
+<a href="https://t.me/BloomSolana_bot?start=ref_541WLB0DZS"><img src="./assets/bloom.avif" alt="Bloom" width="90" height="30"></a>  [ — `ultra-fast solana trading telegram bot`](https://t.me/BloomSolana_bot?start=ref_541WLB0DZS)
 
 * Lightweight + extremely fast execution
 * Ideal for mobile + quick trades
@@ -66,7 +63,7 @@ Using the right tools can significantly improve **execution speed, alpha detecti
 
 ## 📊 Alpha & Analytics (Edge Tools)
 
-**GMGN** — `smart money tracker / early token discovery`
+<a href="https://gmgn.ai/r/L53EOll4"><img src="./assets/GMGNLogoDark.svg" alt="GMGN" width="80" height="30"></a> [— `smart money tracker / early token discovery`](https://gmgn.ai/r/L53EOll4)
 
 * Track **whales & insider activity**
 * Discover tokens before they trend
@@ -76,21 +73,14 @@ Using the right tools can significantly improve **execution speed, alpha detecti
 
 ## 🧠 Advanced Trading Platforms
 
-**Padre** — `advanced trading interface / pro tools`
-
+ <a href="https://trade.padre.gg/rk/423116"><img src="./assets/pumpfunterminal.svg" alt="Pump.fun Terminal" width="80" height="30"></a>  [**Padre (pump.fun terminal)** — `advanced trading interface / pro tools`](https://trade.padre.gg/rk/423116)
 * Enhanced execution controls
 * Additional trading utilities
   → [Open Padre](https://trade.padre.gg/rk/423116)
 
-**Polymarket** — `prediction market / trading signals`
-
-* Trade on real-world outcomes
-* Useful for **sentiment-driven strategies**
-  → [Try Polymarket](https://polymarket.com/?r=cryptoking110600)
-
 ---
-## 💰 Trading Agent Services
-<table> <tr> <th>Service</th> <th>Price</th> <th>What You Get</th> </tr> <tr> <td>🟢 Starter Agent</td> <td>$100+</td> <td>OpenClaw-based agent, basic automation, ready-to-run setup</td> </tr> <tr> <td>🟡 Custom Trading Agent</td> <td>$200+</td> <td>Custom strategy, wallet tracking, signal-based execution</td> </tr> <tr> <td>🔴 Full Trading Bot (MEV / Sniper)</td> <td>$1000+</td> <td>Fully customized bot, high-frequency execution, anti-rug filters</td> </tr> </table>
+## 💰 Trading AI Agent Services
+[<table> <tr> <th>Service</th> <th>Price</th> <th>What You Get</th> </tr> <tr> <td>🟢 Starter Agent</td> <td>$100+</td> <td>OpenClaw-based agent, basic automation, ready-to-run setup</td> </tr> <tr> <td>🟡 Custom Trading Agent</td> <td>$200+</td> <td>Custom strategy, wallet tracking, signal-based execution</td> </tr> <tr> <td>🔴 Full Trading Bot (copy / Sniper / customized strategy)</td> <td>$500+</td> <td>Fully customized bot, high-frequency execution, anti-rug filters</td> </tr> </table>](https://t.me/OCtradinghubofficial)
 
 ---
 
@@ -104,15 +94,13 @@ Using this setup improves:
 
 ---
 
-## 🆘 Support
+## [🆘 Support](https://t.me/OCtradinghubofficial)
 If you have any questions about development or collaboration, I am open to anything. Feel free to contact me about any inquiries or ideas!😊
 
-- ✈️ **Telegram** @cryptoking11060  
+- ✈️ **Telegram** [@OCtradinghubofficial](https://t.me/OCtradinghubofficial)
 
-🟢I typically respond within 1 hours and look forward to connecting with you.
+[🟢I typically respond within 1 hours and look forward to connecting with you.](https://t.me/OCtradinghubofficial)
 ---
 
-### ⭐ If you find these projects helpful, please star 🌟 and watch 👀 the repo!
-
-#### Your feedback and stars motivate further development. Thank you!
+#### Your feedback and stars motivate further development. Thank you!👋
 
