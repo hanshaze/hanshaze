@@ -50,13 +50,13 @@ Using the right tools can significantly improve **execution speed, alpha detecti
 * Low-latency execution engine
   → [Access Odin Bot](https://app.odinbot.io/join?code=b92mfb)
 
-<a href="https://t.me/BloomSolana_bot?start=ref_541WLB0DZS"><img src="./assets/bloom.avif" alt="Bloom" width="90" height="30"></a>  [ — `ultra-fast solana trading telegram bot`](https://t.me/BloomSolana_bot?start=ref_541WLB0DZS)
+<a href="https://t.me/BloomSolana_bot?start=ref_541WLB0DZS"><img src="./assets/bloom.avif" alt="Bloom" width="90" height="30" style="background-color: #000;"></a>  [ — `ultra-fast solana trading telegram bot`](https://t.me/BloomSolana_bot?start=ref_541WLB0DZS)
 
 * Lightweight + extremely fast execution
 * Ideal for mobile + quick trades
   → [Launch Bloom](https://t.me/BloomSolana_bot?start=ref_541WLB0DZS)
 
-<a href="https://t.me/solana_trojanbot?start=r-cryptoking11060"><img src="./assets/trojan%20logo.svg" alt="Trojan on Solana" width="30" height="30"></a>  [**Trojan Bot** — `fast on-chain trading telegram bot`](https://t.me/solana_trojanbot?start=r-cryptoking11060)
+<a href="https://t.me/solana_trojanbot?start=r-cryptoking11060"><img src="./assets/trojan%20logo.svg" alt="Trojan on Solana" width="30" height="30" style="background-color: #000;"></a>  [**Trojan Bot** — `fast on-chain trading telegram bot`](https://t.me/solana_trojanbot?start=r-cryptoking11060)
 
 * Built for fast, advanced on-chain trading
 * Gives full control from Telegram
@@ -66,7 +66,7 @@ Using the right tools can significantly improve **execution speed, alpha detecti
 
 ## 📊 Alpha & Analytics (Edge Tools)
 
-<a href="https://gmgn.ai/r/L53EOll4"><img src="./assets/GMGNLogoDark.svg" alt="GMGN" width="80" height="30"></a> [— `smart money tracker / early token discovery`](https://gmgn.ai/r/L53EOll4)
+<a href="https://gmgn.ai/r/L53EOll4"><img src="./assets/GMGNLogoDark.svg" alt="GMGN" width="80" height="30" style="background-color: #000;"></a> [— `smart money tracker / early token discovery`](https://gmgn.ai/r/L53EOll4)
 
 * Track **whales & insider activity**
 * Discover tokens before they trend
