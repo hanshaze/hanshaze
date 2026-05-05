@@ -50,9 +50,9 @@ Using the right tools can significantly improve **execution speed, alpha detecti
 * Reliable for high-frequency execution
   → [Start using Axiom](https://axiom.trade/@423116)
 
-**Odin Bot** — `automated trading bot / strategy execution`
+**Odin Bot** — `automated copy trading bot / strategy execution /scan alpha`
 
-* Fully automated trading strategies
+* Fully automated copy trading strategies
 * Low-latency execution engine
   → [Access Odin Bot](https://app.odinbot.io/join?code=b92mfb)
 
@@ -89,16 +89,8 @@ Using the right tools can significantly improve **execution speed, alpha detecti
   → [Try Polymarket](https://polymarket.com/?r=cryptoking110600)
 
 ---
-
-## 🖥️ Low-Latency Infrastructure (Critical for MEV)
-
-**Recommended VPS Setup** — `low latency trading server / solana bot hosting`
-
-For best performance, run the bot on a **New York-based VPS** (close to major trading infrastructure):
- → [Try Tradingvps.io](https://app.tradingvps.io/aff.php?aff=22)
-* ⚡ Lower latency = faster execution
-* 🔁 More reliable transaction inclusion
-* 🧩 Better performance for MEV / sniping strategies
+## 💰 Trading Agent Services
+<table> <tr> <th>Service</th> <th>Price</th> <th>What You Get</th> </tr> <tr> <td>🟢 Starter Agent</td> <td>$100+</td> <td>OpenClaw-based agent, basic automation, ready-to-run setup</td> </tr> <tr> <td>🟡 Custom Trading Agent</td> <td>$200+</td> <td>Custom strategy, wallet tracking, signal-based execution</td> </tr> <tr> <td>🔴 Full Trading Bot (MEV / Sniper)</td> <td>$1000+</td> <td>Fully customized bot, high-frequency execution, anti-rug filters</td> </tr> </table>
 
 ---
 
@@ -111,79 +103,6 @@ Using this setup improves:
 * Access to early opportunities (alpha)
 
 ---
-
-## 🛠️ Tech Stack
-
-### Blockchain, Web3 & CEX Integration
-<table align="center">
-  <tr>
-    <td align="center"><img src="assets/icons/solana.png" height="45" alt="Solana" /><br>Solana</td>
-    <td align="center"><img src="assets/icons/ethereum.png" height="45" alt="Ethereum" /><br>Ethereum</td>
-    <td align="center"><img src="assets/icons/bittensor.svg" width="45" height="45" alt="Bittensor" /><br>Bittensor</td>
-    <td align="center"><img src="assets/icons/binance-usd-busd-logo.png" width="45" height="45" alt="Binance (CEX)" /><br>Binance (CEX)</td>
-    <td align="center"><img src="assets/icons/bitget-token-new-bgb-logo.png" width="45" height="45" alt="Bitget" /><br>Bitget</td>
-    <td align="center"><img src="assets/icons/MEXC Logo Mark_Blue.png" width="45" height="45" alt="MEXC" /><br>MEXC</td>
-    <td align="center"><img src="assets/icons/bybit-seeklogo.png" width="45" height="45" alt="Bybit" /><br>Bybit</td>
-  </tr>
-</table>
-
-### Programming Languages
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" /><br>Rust</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" /><br>Solidity</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="45" height="45" alt="TypeScript" /><br>TypeScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" /><br>Python</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="JavaScript" /><br>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" /><br>Go</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=zig" width="45" height="45" alt="Zig" /><br>Zig</td>
-  </tr>
-</table>
-
-### Frontend & Backend
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" /><br>Node.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" /><br>React</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" /><br>Next.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" /><br>Express</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS" /><br>Tailwind CSS</td>
-  </tr>
-</table>
-
-### Database & Infrastructure
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" /><br>PostgreSQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="45" height="45" alt="Redis" /><br>Redis</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="45" height="45" alt="Prisma" /><br>Prisma</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" /><br>Docker</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS" /><br>AWS</td>
-  </tr>
-</table>
-
-### AI & Machine Learning
-<table align="center">
-  <tr>
-    <td align="center"><img src="assets/icons/openai.png" width="45" height="45" alt="OpenAI" /><br>OpenAI</td>
-    <td align="center"><img src="assets/icons/huggingface.svg" width="45" height="45" alt="Hugging Face" /><br>Hugging Face</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="TensorFlow" /><br>TensorFlow</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="PyTorch" /><br>PyTorch</td>
-    <td align="center"><img src="assets/icons/deepseek.svg" width="45" height="45" alt="DeepSeek" /><br>DeepSeek</td>
-  </tr>
-</table>
-
-### Development Tools
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" /><br>Git</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" /><br>GitHub</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Vercel" /><br>Vercel</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" /><br>Figma</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" /><br>Linux</td>
-  </tr>
-</table>
-
 
 ## 🆘 Support
 If you have any questions about development or collaboration, I am open to anything. Feel free to contact me about any inquiries or ideas!😊
