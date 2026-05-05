@@ -26,15 +26,12 @@
 
 By sharing this code, I aim to enable others to build, customize, and scale their own AI-powered trading agents. Use it as a foundation to experiment, improve execution, and create smarter systems for the evolving trading landscape.
 
-# 💡💡💡 Free Tips
-
-
-## 💡 Trading Tools (Recommended Trading Tools)
+## 💡 Free Trading Tools (Recommended Trading Tools)
 
 
 Using the right tools can significantly improve **execution speed, alpha detection, and profitability**.
 
-> ⚡ Below referral links include fee **discounts** or access **benefits**.
+> ### ⚡ Below referral links include fee **discounts** or access **benefits**.
 
 
 ---
@@ -59,7 +56,7 @@ Using the right tools can significantly improve **execution speed, alpha detecti
 * Ideal for mobile + quick trades
   → [Launch Bloom](https://t.me/BloomSolana_bot?start=ref_541WLB0DZS)
 
----
+
 
 ## 📊 Alpha & Analytics (Edge Tools)
 
@@ -69,7 +66,7 @@ Using the right tools can significantly improve **execution speed, alpha detecti
 * Discover tokens before they trend
   → [Explore GMGN](https://gmgn.ai/r/L53EOll4)
 
----
+
 
 ## 🧠 Advanced Trading Platforms
 
